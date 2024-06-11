@@ -1,0 +1,19 @@
+.oddNum {
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#oneI {
+    color: blue;
+    font-size: 36px;
+}
+
+.oddNum.cooler {
+    font-size: 24px;
+}
+
+#anotherI {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
